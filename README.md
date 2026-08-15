@@ -8,7 +8,7 @@ An interactive Excel dashboard for exploring data science job-market salaries, j
 
 ### Dashboard Preview
 
-![Data Science Salary Dashboard](images/dashboard.png)
+![[photot1.png]]
 
 ## Project Overview
 
@@ -18,11 +18,13 @@ The dashboard is designed to answer practical questions about salary levels, job
 
 ## Business Questions
 
-- What is the median salary for a selected job title?
-- How does salary vary across countries?
-- How does salary differ by employment type?
-- Which job platforms have the highest number of postings?
-- How does the selected job title, country, and employment type affect the dashboard results?
+| Question                                                                                            | Dashboard Approach                      |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **What is the median salary for a selected job title?**                                             | Median Salary KPI                       |
+| **How does salary vary across countries?**                                                          | Country map                             |
+| **How does salary differ by employment type?**                                                      | Employment Type chart                   |
+| **Which job platforms have the highest number of postings?**                                        | Top Job Platform KPI                    |
+| **How do salary and job demand vary across different job titles, countries, and employment types?** | Interactive filters + dashboard visuals |
 
 ## Tools & Techniques
 
