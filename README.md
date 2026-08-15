@@ -2,13 +2,9 @@
 
 An interactive Excel dashboard for exploring data science job-market salaries, job counts, countries, employment types, and job platforms.
 
-## Dashboard
+## Dashboard Preview
 
-...
-
-### Dashboard Preview
-
-![[photot1.png]]
+[[photot1.png]]
 
 ## Project Overview
 
