@@ -1,5 +1,3 @@
-# data-science-salary-dashboard
-An interactive Excel dashboard designed to analyze data science job market salaries and job posting trends.  The project explores salary differences across job titles, countries, employment types, and job platforms.
 # Data Science Salary Dashboard
 
 An interactive Excel dashboard for exploring data science job-market salaries, job counts, countries, employment types, and job platforms.
