@@ -68,7 +68,7 @@ The dashboard provides interactive filters for:
 
 The selected filters update the main salary, job-count, country, employment-type, and platform views.
 
-![Data Science Salary Dashboard](https://github.com/abdulrahman0328/data-science-salary-dashboard/blob/main/images/Screenshot%202026-08-15%20035618.png)
+![Data Science Salary Dashboard] (https://github.com/abdulrahman0328/data-science-salary-dashboard/blob/main/images/Screenshot%202026-08-15%20035618.png)
 
 ## Example Dashboard View
 
