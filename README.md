@@ -108,7 +108,7 @@ data-science-salary-dashboard/
 ## Project Demo
 
 🎥 **Loom walkthrough:**  
-[Watch the Project Demo](YOUR_LOOM_LINK_HERE)
+[Watch the Project Demo]([YOUR_LOOM_LINK_HERE](https://www.loom.com/share/f08c0cd74d6b4ea3bc650c63086ad085))
 
 ## Author
 
