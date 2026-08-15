@@ -2,6 +2,14 @@
 
 An interactive Excel dashboard for exploring data science job-market salaries, job counts, countries, employment types, and job platforms.
 
+## Dashboard
+
+...
+
+### Dashboard Preview
+
+![Data Science Salary Dashboard](images/dashboard.png)
+
 ## Project Overview
 
 This project analyzes a dataset of **32,672 job postings** and turns the data into an interactive Excel dashboard.
