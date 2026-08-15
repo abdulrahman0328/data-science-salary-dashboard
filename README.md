@@ -4,7 +4,8 @@ An interactive Excel dashboard for exploring data science job-market salaries, j
 
 ## Dashboard Preview
 
-[[photot1.png]]
+<img width="1919" height="1019" alt="photot1#" src="https://github.com/user-attachments/assets/704e497f-aa6d-4f21-b5df-9d357803276b" />
+
 
 ## Project Overview
 
